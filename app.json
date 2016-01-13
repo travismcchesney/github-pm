@@ -1,0 +1,12 @@
+{
+  "name": "GitHub PM",
+  "description": "Project management through GitHub",
+  "repository": "https://github.com/travismcchesney/github-pm",
+  "keywords": ["node", "github"],
+  "env": {
+    "GITHUB_ORG": {
+      "description": "Your GitHub organization name",
+      "required": true
+    }
+  }
+}
