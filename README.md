@@ -6,3 +6,9 @@
 # Description
 
 github-pm is a utility for bringing project management and GitHub together. All of your code, issues, and milestones are already captured in GitHub. Why not leverage that information in a way that makes the management of projects more streamlined and with less duplication.
+
+# Installation
+
+It runs on Heroku!
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/travismcchesney/github-pm/tree/master)
