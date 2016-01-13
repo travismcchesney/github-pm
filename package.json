@@ -1,0 +1,23 @@
+{
+  "name": "github-pm",
+  "version": "0.0.0",
+  "description": "Project management through GitHub",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.13.3"
+  },
+  "engines": {
+    "node": "4.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/travismcchesney/github-pm"
+  },
+  "keywords": [
+    "github"
+  ],
+  "license": "MIT"
+}
